@@ -30,12 +30,12 @@ I have good design & coding skills.
 
 ### Github Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhigyaKrishna&show_icons=true&count_private=true)](https://github.com/AbhigyaKrishna)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyaKrishna&theme=tokyonight)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhigyaKrishna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/AbhigyaKrishna)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyaKrishna&count_private=true&theme=tokyonight)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhigyaKrishna&repo=PackageTemplate&show_owner=true)](https://github.com/AbhigyaKrishna/SimpleYAMLFileManager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhigyaKrishna&repo=PackageTemplate&show_owner=true&theme=tokyonight)](https://github.com/AbhigyaKrishna/SimpleYAMLFileManager)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
