@@ -21,6 +21,7 @@ I have good design & coding skills.
 ###Langauages I intend to learn ✍
 
 |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" width="24">](https://kotlinlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="24">](https://www.cprogramming.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" width="24">](https://reactjs.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="24">](https://angular.io/)
+|---|---|---|---|
  
 ### Tools 🛠️
 
