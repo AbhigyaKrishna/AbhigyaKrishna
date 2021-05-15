@@ -41,7 +41,7 @@ I have good design & coding skills.
 
 | [<img src="https://static.techspot.com/images2/downloads/topdownload/2016/08/discord.png" alt="Discord" width="24">](https://discord.com/users/350949545946906626) | Avenger AK#6600 |
 |---|---|
-| [<img src="https://download.logo.wine/logo/Instagram/Instagram-Logo.wine.png" alt="Instagram" width="30">](https://www.instagram.com/a.b.h.i.g.y.a/) | a.b.h.i.g.y.a |
+| [<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram" width="24">](https://www.instagram.com/a.b.h.i.g.y.a/) | a.b.h.i.g.y.a |
 
 
 ⭐️ From [@AbhigyaKrishna](https://github.com/AbhigyaKrishna)
