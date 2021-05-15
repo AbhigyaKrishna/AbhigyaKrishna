@@ -35,7 +35,7 @@ I have good design & coding skills.
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhigyaKrishna&repo=PackageTemplate&show_owner=true&theme=tokyonight)](https://github.com/AbhigyaKrishna/SimpleYAMLFileManager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhigyaKrishna&repo=PackageTemplate&show_owner=true)](https://github.com/AbhigyaKrishna/SimpleYAMLFileManager)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
