@@ -41,6 +41,7 @@ I have good design & coding skills.
 <h3> 🤝🏻 Connect with Me </h3>
 
 | [<img src="https://static.techspot.com/images2/downloads/topdownload/2016/08/discord.png" alt="Discord" width="24">](https://discord.com/users/350949545946906626) | Avenger AK#6600 |
+|---|---|
 
 
 ⭐️ From [@AbhigyaKrishna](https://github.com/AbhigyaKrishna)
