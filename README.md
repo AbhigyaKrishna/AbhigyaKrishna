@@ -28,9 +28,10 @@ I have good code design and problem solving skills.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-| [<img src="https://static.techspot.com/images2/downloads/topdownload/2016/08/discord.png" alt="Discord" width="24">](https://discord.com/users/350949545946906626) | abhigyakrishna |
-|---|---|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" width="24">](https://www.linkedin.com/in/abhigya-krishna/) | Abhigya Krishna |
+|---|---|
+| [<img src="https://www.svgrepo.com/show/286582/link-chain.svg" alt="Website" width="24">](https://abhigya.me/) | abhigya.me |
+| [<img src="https://static.techspot.com/images2/downloads/topdownload/2016/08/discord.png" alt="Discord" width="24">](https://discord.com/users/350949545946906626) | abhigyakrishna |
 
 
 ⭐️ From [@AbhigyaKrishna](https://github.com/AbhigyaKrishna)
