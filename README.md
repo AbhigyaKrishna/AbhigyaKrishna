@@ -14,7 +14,7 @@
  <p>
 I am an intermediate programmer from India with substantial programming experience. Additionally, I write blogs!
 
-I have good design & coding skills.
+I have good code design and problem solving.
 </p>
 </div>
 
