@@ -21,10 +21,10 @@ I have good code design and problem solving skills.
 ### Stats
 
 <p><img src="https://github-readme-stats-zeta-lovat-14.vercel.app/api?username=AbhigyaKrishna&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=600" alt="AbhigyaKrishna" /></p>
-<p><img src="https://github-readme-streak-stats-three-beta.vercel.app/?user=AbhigyaKrishna&theme=material-palenight&hide_border=false" alt="AbhigyaKrishna" /></p>
+<p><img src="https://github-readme-streak-stats-blond-nine.vercel.app/?user=AbhigyaKrishna&theme=material-palenight&hide_border=false" alt="AbhigyaKrishna" /></p>
 <p><img src="https://github-readme-stats-zeta-lovat-14.vercel.app/api/top-langs/?username=AbhigyaKrishna&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=600" alt="AbhigyaKrishna" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=AbhigyaKrishna&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy-ivory.vercel.app/?username=AbhigyaKrishna&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
